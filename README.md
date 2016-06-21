@@ -3,4 +3,4 @@ Development
 
 ZenQ Development HUB
 
---by Gagan Pentakota
+--by Gagan Pentakota ZenQ
